@@ -1,0 +1,77 @@
+body{
+    margin:0px;
+}
+.header-bg{
+    background-image:url("images/top-banner.png");
+    background-repeat:no-repeat;
+}
+h1{
+    font-size:50px;
+    margin:0px;
+    margin-top:20px;
+}
+span{
+    color:orange;
+}
+p{
+    font-size:20px;
+    text-align:justify;
+    line-height:1.5;
+    font-style:italic;
+}
+.haf-div{
+    float: left;
+    width:35%;
+    margin-left:5%;
+    padding:2%;
+}
+.haf-div img{
+    width:100%;
+}
+section{
+    height:500px;
+}
+.connect-me-button{
+    text-decoration: none;
+    font-size:20px;
+    font-weight: 700;
+    color:white;
+    background-image:linear-gradient(45deg,  orange, tomato);
+    padding:10px 20px;
+    margin:10px;
+    border-radius:5px;
+}
+.connect-me-button:hover{
+    background:blue;
+}
+.secend-heading{
+    background-image: linear-gradient(45deg, blue, white) ;
+    color:white;
+    padding:5px;
+    margin:5px;
+    border-radius:5px;
+}
+.dream-aria{
+    background-image:url("images/dream-bg.png");
+    background-repeat:no-repeat;
+    background-position:right;
+}
+.double-box{
+    color:orange;
+    margin-left:60px;
+}
+#single-box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 300px;
+    font-weight:700;
+}
+.content-bg{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer h3{
+    font-size: 12px;
+    text-align:center;
+}
